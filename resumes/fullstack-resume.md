@@ -1,4 +1,3 @@
-Here's a refined **Full Stack Engineer** resume tailored from your master resume, focusing on the most relevant skills, experience, and achievements for this role.
 ---
 
 ### **Sreyeesh Garimella**  
