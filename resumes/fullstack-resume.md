@@ -1,16 +1,15 @@
 Here's a refined **Full Stack Engineer** resume tailored from your master resume, focusing on the most relevant skills, experience, and achievements for this role.
-
 ---
 
 ### **Sreyeesh Garimella**  
 **Full Stack Engineer**  
-[LinkedIn](https://ee.linkedin.com/in/sreyeeshgarimella) | [GitHub](https://github.com/Sreyeesh) | [Toucan Studios Profile](https://ittoucan.com/)  
+[LinkedIn](https://ee.linkedin.com/in/sreyeeshgarimella) | [GitHub](https://github.com/Sreyeesh) | [Portfolio](https://ittoucan.com/)  
 **Email**: sgarime1@gmail.com | **Phone**: +372 5827 7155  
 
 ---
 
 ### **Professional Summary**  
-Innovative Full Stack Engineer with over a decade of experience building scalable systems, designing interactive user interfaces, and automating workflows. Expert in **Python**, **JavaScript**, **Node.js**, **React**, and **MongoDB**, with hands-on experience in deploying cloud-native applications using **Docker**, **Kubernetes**, and CI/CD pipelines. Known for enhancing efficiency and reducing manual workloads through workflow automation, API integration, and database optimization. Dedicated to continuous learning and teaching, mentoring over 50 students globally in modern software development and DevOps tools.
+Dynamic Full Stack Engineer with 10+ years of experience in designing scalable systems, crafting seamless user interfaces, and automating complex workflows. Proficient in **Python**, **JavaScript**, **Node.js**, **React**, and **MongoDB**, with expertise in deploying applications using **Docker**, **Kubernetes**, and CI/CD pipelines. Adept at optimizing development pipelines, integrating APIs, and streamlining production workflows. An enthusiastic mentor, committed to upskilling over 50 students globally in full stack development and DevOps practices.
 
 ---
 
@@ -28,41 +27,42 @@ Innovative Full Stack Engineer with over a decade of experience building scalabl
 
 #### **Full Stack Engineer**  
 *Freelance, Animation and VFX Industry* | January 2010 – Present  
-- Developed robust **React** and **Node.js** applications to enhance production workflows and resource allocation systems.  
-- Automated pipeline tasks using **ShotGrid**, **Maya**, and **Katana APIs**, boosting efficiency by 30%.  
-- Designed and deployed scalable **CI/CD pipelines** with **Docker** and **Jenkins**, ensuring reliable code delivery.  
-- Integrated **Elasticsearch** to streamline data analysis and reporting for real-time monitoring.  
-- Built **Grafana dashboards** for live visualization of key performance metrics across production teams.  
+- Built scalable full stack applications using **React**, **Node.js**, and **MongoDB** to optimize workflow management.  
+- Automated production tasks leveraging **ShotGrid**, **Maya**, and **Katana APIs**, achieving a 30% efficiency improvement.  
+- Designed and maintained **CI/CD pipelines** with **Docker** and **Jenkins** to support seamless deployment processes.  
+- Integrated **Elasticsearch** for efficient data handling and real-time analytics across production teams.  
+- Developed **Grafana dashboards** to monitor and visualize key performance metrics, improving resource allocation.
 
 #### **Instructor**  
 *Toucan Studios* | January 2022 – Present  
-- Mentored global students on full stack development, covering **Python**, **React**, and **containerized deployments**.  
-- Created real-world projects to teach modern development workflows, including frontend-backend integration and cloud deployment.  
-- Taught efficient coding practices and tool integration, receiving consistent high ratings from students.  
+- Delivered comprehensive training on **Python**, **React**, and DevOps practices to a global audience of 50+ students.  
+- Created project-based curriculums emphasizing modern development tools like **containerized deployments** and API integration.  
+- Consistently received high feedback scores for engaging teaching methods and up-to-date course content.
 
 ---
 
 ### **Key Projects**  
 
 #### **Render Farm Automation**  
-- Designed a scalable backend with **Python** and **MongoDB** for managing high-volume render tasks.  
-- Developed **Grafana dashboards** to provide real-time render progress and resource utilization insights.  
+- Architected a **Python**-based backend system with **MongoDB** for managing high-volume render tasks in real time.  
+- Implemented **Grafana dashboards** for progress tracking and resource utilization, boosting team productivity.
 
 #### **Interactive Web Application**  
-- Built a responsive full stack application using **React** (frontend), **Node.js** (backend), and **MongoDB** (database).  
-- Implemented user authentication, real-time updates, and seamless REST API integration for dynamic user experiences.  
+- Developed a responsive full stack app with **React**, **Node.js**, and **MongoDB**, featuring real-time updates and secure authentication.  
+- Designed intuitive user interfaces and robust backend APIs for seamless user experiences.  
 
 #### **Pipeline Optimization**  
-- Automated asset tracking and database updates using **Lua** and **Python**, cutting retrieval times by 50%.  
-- Enhanced production workflows by integrating **Elasticsearch** for advanced search and reporting capabilities.  
+- Automated asset tracking and database synchronization with **Lua** and **Python**, reducing retrieval times by 50%.  
+- Enhanced search and reporting capabilities through **Elasticsearch** integration.
 
 #### **Workflow Automation**  
-- Developed automated tools using **ShotGrid** and **Maya APIs** to reduce manual production tasks by 20%.  
-- Streamlined real-time data sharing across teams using **microservices architecture**.  
+- Created tools leveraging **ShotGrid** and **Maya APIs** to automate repetitive tasks, improving efficiency by 20%.  
+- Utilized **microservices architecture** to enable real-time data sharing across multiple production teams.
 
 ---
 
 ### **Education**  
+
 **California State University, Northridge**  
 - **Degree**: Bachelor’s in Art, Animation (2010–2012)  
 - **Leadership**: President, Animation Student League of Northridge  
@@ -79,8 +79,6 @@ Innovative Full Stack Engineer with over a decade of experience building scalabl
 ### **Links**  
 - **LinkedIn**: [https://ee.linkedin.com/in/sreyeeshgarimella](https://ee.linkedin.com/in/sreyeeshgarimella)  
 - **GitHub**: [https://github.com/Sreyeesh](https://github.com/Sreyeesh)  
-- **Portfolio**: [Toucan Studios Profile](https://ittoucan.com/)  
+- **Portfolio**: [https://ittoucan.com/](https://ittoucan.com/)  
 
---- 
-
-Let me know if you want further adjustments or a specific style tailored to a particular job application!
+---   
