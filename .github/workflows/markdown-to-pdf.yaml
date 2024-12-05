@@ -17,7 +17,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Step 2: Install dependencies (Pandoc and LaTeX)
+      # Step 2: Install Pandoc and LaTeX for PDF generation
       - name: Install Pandoc and LaTeX
         run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
 
