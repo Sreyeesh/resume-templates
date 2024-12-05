@@ -1,6 +1,6 @@
 # Sreyeesh Garimella
 
-**Senior Backend Engineer**  
+**Senior Software Engineer**  
 [LinkedIn](https://ee.linkedin.com/in/sreyeeshgarimella) | [GitHub](https://github.com/Sreyeesh) | [Portfolio](https://ittoucan.com/)  
 **Email**: [sgarime1@gmail.com](mailto:sgarime1@gmail.com) | **Phone**: [+372 5827 7155](tel:+37258277155)
 
@@ -8,18 +8,35 @@
 
 ## Professional Summary
 
-Senior Backend Engineer with over 10 years of expertise in designing scalable backend systems and APIs using **Node.js**, **TypeScript**, and **Python**. Proficient in microservices architecture, distributed systems, and cloud platforms like **AWS** and **Azure**. Skilled at optimizing backend performance, leading teams, and driving technical innovation in fast-paced environments. Adept at integrating complex systems with user-focused solutions to deliver impactful products globally.
+Experienced Software Engineer with over 10 years of expertise in **backend development**, **distributed systems**, and **cloud-native architectures**. Skilled in **Node.js**, **TypeScript**, **Python**, and modern DevOps tools like **Docker**, **Kubernetes**, and **CI/CD pipelines**. Proven ability to design and scale microservices, automate workflows, and deliver user-focused software solutions. Passionate about mentoring, teaching, and collaborating in fast-paced, dynamic environments.
 
 ---
 
 ## Technical Skills
 
-- **Programming Languages**: Node.js, TypeScript, Python, JavaScript, C++, Java
-- **Backend Development**: Microservices, REST APIs, GraphQL, Distributed Systems
-- **Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
-- **Cloud Platforms**: AWS (EC2, Lambda, RDS), Azure, Google Cloud
-- **DevOps Tools**: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions)
-- **Other**: Event-driven architectures, WebSockets, Data Pipelines
+### Programming Languages
+
+- Node.js, TypeScript, Python, JavaScript, C++, C#, Lua
+
+### Backend Development
+
+- Microservices, REST APIs, GraphQL, Flask, Django
+
+### Frontend Development
+
+- React, Vue.js, Angular, HTML, CSS, Tailwind CSS
+
+### Databases
+
+- PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
+
+### Cloud Platforms
+
+- AWS (EC2, Lambda, DynamoDB), Google Cloud, Azure
+
+### DevOps & Automation
+
+- Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Terraform, Prometheus, Grafana
 
 ---
 
@@ -29,46 +46,52 @@ Senior Backend Engineer with over 10 years of expertise in designing scalable ba
 
 **Various Studios** | January 2015 – Present  
 
-- Designed and deployed scalable microservices architectures using **Node.js** and **TypeScript**, supporting millions of users globally.
-- Led backend initiatives for **real-time systems**, including messaging and notification services.
-- Architected distributed systems to ensure high availability and fault tolerance, reducing downtime by 20%.
-- Deployed and managed cloud resources with **AWS**, focusing on serverless solutions like **Lambda** and infrastructure as code with **Terraform**.
-- Collaborated with cross-functional teams to define and deliver backend scopes incrementally, using Agile methodologies.
+- Designed and deployed **scalable backend systems** using **Node.js** and **TypeScript**, supporting millions of users.
+- Led the development of microservices architectures, ensuring **high availability** and fault tolerance.
+- Deployed cloud-native solutions with **AWS Lambda**, **DynamoDB**, and **API Gateway**.
+- Built RESTful APIs to enable seamless integration with frontend and third-party systems.
+- Implemented CI/CD pipelines using **GitHub Actions**, reducing deployment times by 40%.
 
 ### Software Developer  
 
 **Freelance Projects** | 2013 – Present  
 
-- Built APIs and backend services for SaaS platforms using **Node.js** and **Flask**.
-- Integrated databases like **PostgreSQL** and **MongoDB** into backend systems to support data-intensive workflows.
-- Migrated monolithic systems to microservices, improving scalability by 35%.
-- Automated CI/CD pipelines for client projects, enabling frequent and error-free deployments.
+- Developed custom software solutions for clients using **React**, **Node.js**, and **MongoDB**.
+- Automated workflows for animation studios using **Python**, **ShotGrid API**, and **Autodesk Maya API**.
+- Migrated monolithic applications to **microservices architectures**, improving scalability by 30%.
+- Delivered cloud-based solutions for e-commerce platforms, integrating secure payment gateways.
 
 ### Instructor & Mentor  
 
 **Toucan Studios** | January 2022 – Present  
 
-- Delivered advanced courses on **Node.js**, **TypeScript**, and **AWS** for professional developers.
-- Mentored students on scalable system design and backend development best practices.
+- Conducted workshops on **backend development**, **DevOps**, and **Python programming** for over 50 students globally.
+- Designed project-based learning modules focusing on REST APIs, Docker, and real-time systems.
+- Mentored students on best practices in software design, testing, and deployment.
 
 ---
 
-## Selected Projects
+## Projects
 
 ### Scalable Backend System
 
-- Architected a backend for managing real-time data flows using **Node.js**, **Redis**, and **WebSockets**.
-- Built **TypeScript-based microservices** with load balancing and caching, supporting 1M+ active users.
+- Architected a real-time backend system using **Node.js**, **Redis**, and **WebSockets**.
+- Deployed microservices with load balancing, caching, and failover support, handling 1M+ users.
 
 ### Cloud-Native Application
 
-- Deployed an e-commerce platform on **AWS**, leveraging **Lambda**, **DynamoDB**, and **API Gateway**.
-- Implemented **CI/CD pipelines** using **GitHub Actions**, enabling zero-downtime deployments.
+- Developed and deployed a cloud-native application on **AWS** with **Lambda**, **DynamoDB**, and **API Gateway**.
+- Integrated monitoring dashboards using **Prometheus** and **Grafana**.
 
 ### Render Farm Automation
 
-- Automated backend workflows for animation pipelines using **Python**, **MongoDB**, and REST APIs.
-- Deployed dashboards with **Grafana** to monitor real-time resource usage and task statuses.
+- Automated animation rendering workflows using **Python**, **MongoDB**, and REST APIs.
+- Improved task prioritization and resource allocation with real-time monitoring.
+
+### Full-Stack E-Commerce Platform
+
+- Built a full-stack web application with **React** (frontend) and **Node.js** (backend).
+- Implemented user authentication, real-time notifications, and inventory management.
 
 ---
 
@@ -78,10 +101,21 @@ Senior Backend Engineer with over 10 years of expertise in designing scalable ba
 
 - **Degree**: Art, Animation (2010 - 2012)
 
+### College of the Canyons
+
+- **Degree**: Associate of Arts, Animation (2007 - 2010)
+
+---
+
+## Certifications
+
+- **AWS Certified Solutions Architect**  
+- **Docker Certified Associate**
+
 ---
 
 ## Links
 
-- **LinkedIn**: [https://ee.linkedin.com/in/sreyeeshgarimella](https://ee.linkedin.com/in/sreyeeshgarimella)
-- **GitHub**: [https://github.com/Sreyeesh](https://github.com/Sreyeesh)
+- **LinkedIn**: [https://ee.linkedin.com/in/sreyeeshgarimella](https://ee.linkedin.com/in/sreyeeshgarimella)  
+- **GitHub**: [https://github.com/Sreyeesh](https://github.com/Sreyeesh)  
 - **Portfolio**: [https://ittoucan.com/](https://ittoucan.com/)
