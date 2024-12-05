@@ -2,6 +2,8 @@ name: Convert Markdown to PDF and Commit to Repository
 
 on:
   push:
+    branches:
+      - main
     paths:
       - 'resume/*.md'
   workflow_dispatch:
