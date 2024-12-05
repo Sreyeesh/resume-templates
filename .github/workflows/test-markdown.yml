@@ -1,0 +1,32 @@
+name: Test Markdown Files
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'resumes/*.md'
+      - 'tests/**/*.js'
+  pull_request:
+    paths:
+      - 'resumes/*.md'
+      - 'tests/**/*.js'
+
+jobs:
+  lint-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "16"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Jest Tests
+        run: npx jest tests/validateMarkdown.js
