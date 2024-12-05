@@ -1,4 +1,4 @@
-name: Convert Markdown to PDF and Commit to Repository
+name: Test Basic Workflow
 
 on:
   push:
@@ -9,45 +9,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  convert-md-to-pdf:
+  test-basic:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      # Step 2: Install Pandoc and LaTeX for PDF generation
-      - name: Install Pandoc and LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
-
-      # Step 3: Convert Markdown files in the 'resume' folder to PDF
-      - name: Convert Markdown to PDF
-        run: |
-          mkdir -p resume
-          for file in resume/*.md; do
-            if [ -f "$file" ]; then
-              pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex
-            fi
-          done
-
-      # Step 4: Check if there are any changes
-      - name: Check for PDF changes
-        id: check_changes
-        run: |
-          git diff --quiet --exit-code resume/*.pdf
-          echo "changed=$?" >> $GITHUB_OUTPUT
-
-      # Step 5: Commit and push the generated PDFs back to the repository
-      - name: Commit and Push PDFs
-        if: steps.check_changes.outputs.changed == '1'
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add resume/*.pdf
-          git commit -m "chore: Update generated PDFs from Markdown files"
-          git push
+      - name: Print Test Message
+        run: echo "Workflow successfully triggered!"
