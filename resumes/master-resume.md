@@ -1,77 +1,87 @@
-### **Sreyeesh Garimella**  
-**Full Stack Engineer**  
-[LinkedIn](https://ee.linkedin.com/in/sreyeeshgarimella) | [GitHub](https://github.com/Sreyeesh) | [Toucan Studios Profile](https://ittoucan.com/) | **sgarime1@gmail.com** | **+372 5827 7155**
+# Sreyeesh Garimella
+
+**Senior Backend Engineer**  
+[LinkedIn](https://ee.linkedin.com/in/sreyeeshgarimella) | [GitHub](https://github.com/Sreyeesh) | [Portfolio](https://ittoucan.com/)  
+**Email**: [sgarime1@gmail.com](mailto:sgarime1@gmail.com) | **Phone**: [+372 5827 7155](tel:+37258277155)
 
 ---
 
-### **Professional Summary**  
-Experienced Full Stack Engineer with over 10 years of expertise in designing, building, and automating scalable systems and tools. Proficient in **Python**, **JavaScript**, **Node.js**, **React**, **MongoDB**, and modern DevOps tools like **Docker**, **CI/CD**, and **Grafana**. Proven ability to integrate APIs, manage real-time workflows, and deliver robust backend systems. Adept at optimizing processes, creating intuitive frontend interfaces, and deploying solutions efficiently. Passionate educator, having taught over 50 students globally through Toucan Studios since 2022.
+## Professional Summary
+
+Senior Backend Engineer with over 10 years of expertise in designing scalable backend systems and APIs using **Node.js**, **TypeScript**, and **Python**. Proficient in microservices architecture, distributed systems, and cloud platforms like **AWS** and **Azure**. Skilled at optimizing backend performance, leading teams, and driving technical innovation in fast-paced environments. Adept at integrating complex systems with user-focused solutions to deliver impactful products globally.
 
 ---
 
-### **Technical Skills**  
-- **Programming Languages**: Python, JavaScript (ES6+), TypeScript, Lua  
-- **Backend Development**: Node.js, Flask, Django, REST APIs, Microservices  
-- **Frontend Development**: React, Vue.js, Angular, HTML, CSS, Tailwind CSS  
-- **DevOps Tools**: Docker, Kubernetes, CI/CD (Jenkins, GitHub Actions), Grafana, Prometheus, Terraform  
-- **Data Handling**: MongoDB, Elasticsearch, SQL, Pandas, NumPy  
-- **APIs & Automation**: ShotGrid API, Autodesk Maya API, Katana API  
+## Technical Skills
+
+- **Programming Languages**: Node.js, TypeScript, Python, JavaScript, C++, Java
+- **Backend Development**: Microservices, REST APIs, GraphQL, Distributed Systems
+- **Databases**: PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis
+- **Cloud Platforms**: AWS (EC2, Lambda, RDS), Azure, Google Cloud
+- **DevOps Tools**: Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions)
+- **Other**: Event-driven architectures, WebSockets, Data Pipelines
 
 ---
 
-### **Professional Experience**  
-#### **Full Stack Engineer – Animation and VFX Industry**  
-*Various Studios* | January 2010 – Present  
-- Developed tools to automate render farm operations using **Python**, **MongoDB**, and **REST APIs**, enabling real-time task prioritization and monitoring.  
-- Designed and deployed CI/CD pipelines with **Jenkins** and **Docker**, ensuring consistent and scalable deployments.  
-- Built and maintained **React-based dashboards** to monitor rendering progress and resource utilization, integrating data from backend APIs.  
-- Automated workflows with **ShotGrid API**, reducing manual processes by 30%.  
-- Created Lua-based tools to streamline asset management and automate database updates, improving efficiency by 25%.  
-- Integrated production pipelines with **Elasticsearch**, enhancing data processing and reporting for large-scale workflows.
+## Professional Experience
 
-#### **Instructor**  
-*Toucan Studios* | January 2022 – Present  
-- Designed and delivered courses on **Python programming**, **DevOps workflows**, and **GitHub Desktop**, reaching over 50 students globally.  
-- Developed real-world projects to teach students how to build REST APIs, deploy containerized applications, and integrate frontend-backend systems.  
-- Continuously updated course content to incorporate modern frontend frameworks, backend tools, and monitoring solutions.
+### Senior Backend Engineer  
 
----
+**Various Studios** | January 2015 – Present  
 
-### **Projects**  
-#### **Render Farm Automation**  
-- Built a backend system for managing render tasks using **Python** and **MongoDB**, enabling real-time prioritization and progress tracking.  
-- Developed and deployed **Grafana dashboards** to monitor rendering performance and resource utilization.  
+- Designed and deployed scalable microservices architectures using **Node.js** and **TypeScript**, supporting millions of users globally.
+- Led backend initiatives for **real-time systems**, including messaging and notification services.
+- Architected distributed systems to ensure high availability and fault tolerance, reducing downtime by 20%.
+- Deployed and managed cloud resources with **AWS**, focusing on serverless solutions like **Lambda** and infrastructure as code with **Terraform**.
+- Collaborated with cross-functional teams to define and deliver backend scopes incrementally, using Agile methodologies.
 
-#### **Fullstack Web Application**  
-- Designed an end-to-end web app using **React** for the frontend and **Node.js** for the backend, with **MongoDB** for database storage.  
-- Integrated REST APIs for user authentication and real-time notifications, ensuring seamless user interaction.  
+### Software Developer  
 
-#### **Workflow Automation Using APIs**  
-- Automated repetitive tasks in animation production pipelines using **ShotGrid**, **Maya**, and **Katana APIs**, resulting in a 20% improvement in workflow efficiency.  
+**Freelance Projects** | 2013 – Present  
 
-#### **Blizzard Tools and Databases**  
-- Created tools from scratch using **Lua** and **Python** to automate asset management and database updates.  
-- Designed custom database schemas to manage thousands of assets, reducing retrieval times by 50%.  
+- Built APIs and backend services for SaaS platforms using **Node.js** and **Flask**.
+- Integrated databases like **PostgreSQL** and **MongoDB** into backend systems to support data-intensive workflows.
+- Migrated monolithic systems to microservices, improving scalability by 35%.
+- Automated CI/CD pipelines for client projects, enabling frequent and error-free deployments.
+
+### Instructor & Mentor  
+
+**Toucan Studios** | January 2022 – Present  
+
+- Delivered advanced courses on **Node.js**, **TypeScript**, and **AWS** for professional developers.
+- Mentored students on scalable system design and backend development best practices.
 
 ---
 
-### **Education**  
-#### **California State University, Northridge**  
-**Degree**: Art, Animation (2010 - 2012)  
-- President of Animation Student League of Northridge (2011-2012)  
-- Activities and Societies: Animation Student League of Northridge  
+## Selected Projects
 
-#### **College of the Canyons**  
-**Degree**: Associate of Arts, Animation (2007 - 2010)  
-- President of the Animation Club  
-- Activities and Societies: Animation Club  
+### Scalable Backend System
 
-#### **Ianimate**  
-**Program**: Character Animation (2013)  
+- Architected a backend for managing real-time data flows using **Node.js**, **Redis**, and **WebSockets**.
+- Built **TypeScript-based microservices** with load balancing and caching, supporting 1M+ active users.
+
+### Cloud-Native Application
+
+- Deployed an e-commerce platform on **AWS**, leveraging **Lambda**, **DynamoDB**, and **API Gateway**.
+- Implemented **CI/CD pipelines** using **GitHub Actions**, enabling zero-downtime deployments.
+
+### Render Farm Automation
+
+- Automated backend workflows for animation pipelines using **Python**, **MongoDB**, and REST APIs.
+- Deployed dashboards with **Grafana** to monitor real-time resource usage and task statuses.
 
 ---
 
-### **Links**  
-- **LinkedIn**: [https://ee.linkedin.com/in/sreyeeshgarimella](https://ee.linkedin.com/in/sreyeeshgarimella)  
-- **GitHub**: [https://github.com/Sreyeesh](https://github.com/Sreyeesh)  
-- **Toucan Studios Profile**: [https://ittoucan.com/](https://ittoucan.com/)  
+## Education
+
+### California State University, Northridge
+
+- **Degree**: Art, Animation (2010 - 2012)
+
+---
+
+## Links
+
+- **LinkedIn**: [https://ee.linkedin.com/in/sreyeeshgarimella](https://ee.linkedin.com/in/sreyeeshgarimella)
+- **GitHub**: [https://github.com/Sreyeesh](https://github.com/Sreyeesh)
+- **Portfolio**: [https://ittoucan.com/](https://ittoucan.com/)
