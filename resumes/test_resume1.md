@@ -13,10 +13,11 @@ Experienced Backend Developer with expertise in building scalable microservices 
 
 ## Skills
 
-- **Programming Languages**: Node.js, TypeScript, Python  
-- **Databases**: PostgreSQL, MongoDB  
-- **DevOps Tools**: Docker, Kubernetes, CI/CD  
-- **Cloud Platforms**: AWS, Google Cloud  
+- **Programming Languages**: Node.js, TypeScript, Python, Go  
+- **Databases**: PostgreSQL, MongoDB, Redis  
+- **DevOps Tools**: Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)  
+- **Cloud Platforms**: AWS, Google Cloud, Azure
+ 
 
 ---
 
