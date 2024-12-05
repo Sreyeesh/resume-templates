@@ -13,22 +13,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the repository
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Install Pandoc and LaTeX for PDF generation
-      - name: Install Dependencies
+      # Step 2: Install dependencies (Pandoc and LaTeX)
+      - name: Install Pandoc and LaTeX
         run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
 
-      # Convert Markdown files in the resume folder to PDF
+      # Step 3: Convert Markdown files in the 'resume' folder to PDF
       - name: Convert Markdown to PDF
         run: |
           for file in resume/*.md; do
             pandoc "$file" -o "${file%.md}.pdf";
           done
 
-      # Commit the generated PDFs back to the repository
+      # Step 4: Commit and push the generated PDFs back to the repository
       - name: Commit and Push PDFs
         run: |
           git config --global user.name "GitHub Actions"
