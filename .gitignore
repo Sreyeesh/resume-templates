@@ -2,8 +2,9 @@
 node_modules/
 package-lock.json
 
-# Build artifacts (Generated PDFs)
-resumes/*.pdf
+# Build artifacts (Generated PDFs) - Allow specific resumes/*.pdf
+*.pdf
+!resumes/*.pdf
 
 # Logs
 npm-debug.log*
@@ -28,7 +29,6 @@ Thumbs.db
 coverage/
 
 # GitHub Actions logs and artifacts
-*.log
 .github/workflows/*.log
 
 # Environment variables
