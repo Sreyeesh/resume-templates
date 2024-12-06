@@ -1,12 +1,10 @@
 name: Convert Markdown Resumes to PDF
 
 on:
-  workflow_dispatch: # Manual trigger for existing files
-  push:              # Automatic trigger for changes to resumes/*.md files
+  # Trigger when any file is pushed to the main branch
+  push:
     branches:
       - main
-    paths:
-      - 'resumes/*.md'
 
 jobs:
   convert:
@@ -17,11 +15,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Step 2: Install Pandoc and LaTeX
+      # Step 2: Ensure the `resumes` folder exists
+      - name: Verify resumes folder
+        run: |
+          if [ ! -d "resumes" ]; then
+            echo "Error: 'resumes' folder does not exist."
+            exit 1
+          fi
+
+      # Step 3: Install Pandoc and LaTeX
       - name: Install Pandoc and LaTeX
         run: sudo apt-get update && sudo apt-get install -y pandoc texlive-xetex
 
-      # Step 3: Convert all Markdown files in 'resumes' to PDFs
+      # Step 4: Convert Markdown files to PDFs
       - name: Convert Markdown to PDF
         run: |
           for file in resumes/*.md; do
@@ -29,7 +35,7 @@ jobs:
             pandoc "$file" -o "${file%.md}.pdf" --pdf-engine=xelatex
           done
 
-      # Step 4: Commit and push generated PDFs back to the repository
+      # Step 5: Commit and Push PDFs
       - name: Commit and Push PDFs
         run: |
           git config --global user.name "GitHub Actions"
