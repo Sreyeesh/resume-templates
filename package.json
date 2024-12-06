@@ -1,15 +1,18 @@
 {
   "name": "resume-templates",
   "version": "1.0.0",
-  "description": "",
+  "description": "Markdown-based resume templates with automated PDF generation and linting",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "lint": "markdownlint '**/*.md' --ignore node_modules",
+    "convert": "node convertToPdf.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["resume", "markdown", "pdf", "automation", "templates"],
+  "author": "Sreyeesh",
   "license": "ISC",
   "devDependencies": {
+    "jest": "^29.7.0",
     "markdownlint-cli": "^0.43.0"
   }
 }
